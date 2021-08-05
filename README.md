@@ -11,15 +11,15 @@ When launched a login page is displayed where users can login/register. Then, de
 
 On Anaconda Prompt (miniconda3):
 
-1- git clone (https/ssh) depending on your permissions
-2- cd CRM-App
-3- python manage.py runserver
-4- Open your browser and go to 'http://localhost:8000/'
+1- git clone (https/ssh) depending on your permissions<br>
+2- cd CRM-App<br>
+3- python manage.py runserver<br>
+4- Open your browser and go to 'http://localhost:8000/'<br>
 
 # Extras
 
 If you would like to access the application as an admin, before step 3 do the following:
 
-1- python manage.py createsuperuser
-2- fill in username, pass, email. These credentials will be used in the apps login as well as to the database
+1- python manage.py createsuperuser<br>
+2- fill in username, pass, email. These credentials will be used in the apps login as well as to the database<br>
 
